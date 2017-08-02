@@ -23,7 +23,7 @@ GIT
       tzinfo-data
 
 GIT
-  remote: https://github.com/raghubetina/starter_generators
+  remote: https://github.com/raghubetina/starter_generators.git
   revision: 48fa7a4fbe4eb90ecfe05a133a7d7550167308f8
   specs:
     starter_generators (0.9.6)
